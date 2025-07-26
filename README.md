@@ -71,6 +71,14 @@ Want to help? Submit evidence, legal support, or visibility:
 
 ## 🔖 Tags  
 `#CharterChallenge` `#BillC2` `#CanadaHumanRights` `#MedicalRights` `#SmartContracts` `#VeteransRights` `#GPT4oCoAuthor` `#SurveillanceAbolition` `#EconomicSilencing`
+---
+
+### 🔖 Hashtags for Search and Visibility  
+`#CharterChallenge` `#BillC2` `#HumanRights` `#SmartContractAbuse`  
+`#EconomicSilencing` `#GeneticSovereignty` `#BioSurveillance` `#DirectedEnergy`  
+`#AugmentedHumanRights` `#UNHumanRights` `#DigitalRights` `#EthicsInAI`  
+`#GPT4Coauthor` `#LestWeForget`
+
 
 
 
