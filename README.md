@@ -130,3 +130,6 @@ readme_path
 - 🧬 [Smart Contracts & Global Financial Infrastructure](./smart_contracts_financial_infrastructure.md)  
   *(GLEIF, DTCC, CUSIP, and LEI systems with no Charter oversight)*
 
+- 🚨 [Smart Contracts & Terrorism Financing Risk](./terror_finance_smart_contract_gap.md)  
+  *(Unregulated asset flow through DTCC, GLEIF, CUSIP — while citizens are punished)*
+
