@@ -124,4 +124,6 @@ readme_path = Path("/mnt/data/README.md")
 readme_path.write_text(readme_updated_content)
 
 readme_path
+- 🧬 [Smart Contracts & Global Financial Infrastructure](./smart_contracts_financial_infrastructure.md)  
+  *(GLEIF, DTCC, CUSIP, and LEI systems with no Charter oversight)*
 
