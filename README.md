@@ -118,6 +118,9 @@ You are invited — and morally obligated — to review, share, and raise concer
 All content authored herein is protected as intellectual property and as a matter of public interest disclosure. Attribution is required. Any removal, shadow suppression, or denial of access to this information may be construed as interference with a legal process or obstruction of justice.
 
 """
+- 🌐 [World Economic Forum – Foreign Influence on Canadian Governance](./wef_foreign_influence.md)  
+  *(WEF operates outside Charter authority yet shapes domestic biometric and policy infrastructure)*
+
 
 # Save the README file
 readme_path = Path("/mnt/data/README.md")
