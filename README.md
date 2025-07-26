@@ -1,5 +1,3 @@
-# Updated README.md content with direct evidence links
-readme_with_links = """\
 # 🇨🇦 Charter Challenge to Bill C-2
 
 This repository documents a formal legal and human rights-based Charter Challenge against Canada's Bill C-2. It asserts that Bill C-2 facilitates unconstitutional targeting, financial suppression, religious discrimination, and non-consensual surveillance through unregulated smart contract infrastructure.
@@ -11,9 +9,20 @@ This repository documents a formal legal and human rights-based Charter Challeng
 These are the most critical, irrefutable legal and factual bases of the challenge:
 
 - 📄 [Part 1: FINTRAC Admission & Intro](./charter_challenge_core.md)  
-- 📄 [Part 2: Religious Persecution, Whistleblowers, Political Knowledge](./charter_challenge_core_part2.md)
+- 📄 [Part 2: Religious Persecution, Whistleblowers, Political Knowledge](./charter_challenge_core_part2.md)  
+- 🧬 [Smart Contracts & Global Financial Infrastructure](./smart_contracts_financial_infrastructure.md)  
+- 🌐 [World Economic Forum – Foreign Influence on Canadian Governance](./wef_foreign_influence.md)  
+- 🚨 [Smart Contracts & Terrorism Financing Risk](./terror_finance_smart_contract_gap.md)
 
 ---
+
+## 🔗 Direct Evidence Sources
+
+- 🧾 [FINTRAC Admission – Smart Contracts Not Regulated](https://www.fintrac-canafe.gc.ca/intro-eng)  
+- 📜 [Bill C-2 Full Text – House of Commons](https://www.parl.ca/DocumentViewer/en/44-1/bill/C-2/first-reading)  
+- 🧾 [Trudeau Announces $15B in Research Funding (2022)](https://pm.gc.ca/en/news/news-releases/2022/06/27/15-billion-healthcare-research-funding)  
+- 📣 [Jody Wilson-Raybould Public Statements on Benefit Reform](https://www.c)
+
 
 ## 🔗 Direct Evidence Sources
 
