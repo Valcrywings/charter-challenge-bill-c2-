@@ -42,3 +42,50 @@ We demand:
 - **An independent civilian inquiry mechanism**
 - **Auditable consent and compensation mechanisms** for any citizens affected by experimental, medical, or surveillance operations
 - **ICC compliance audits** for all technologies used under foreign partnerships on Canadian soil
+
+- # 🛡 Foreign Contractor Oversight & Charter Breaches
+
+Canada currently offers no **public oversight mechanism** to investigate foreign or private military contractors operating within its borders, including their use of experimental surveillance systems and implants.
+
+---
+
+## 📌 Key Evidence of Oversight Gaps
+
+- **Canada has ratified the Rome Statute**, making it subject to **ICC jurisdiction**—but **NATO as an entity is not an ICC signatory**, allowing operations without direct accountability to international law :contentReference[oaicite:1]{index=1}  
+- **Letters of Understanding (LOUs)** permit foreign military or intelligence entities to operate in Canada without requiring full Canadian legal protections, constitutional oversight, or citizen redress.
+
+---
+
+## ⚠️ Private Entities Operating Without Transparency
+
+- **EWA‑Canada (Electronic Warfare Associates)** is SCC‑accredited for cybersecurity testing in Canada—but its private research scope and partnership with defence agencies remain opaque. It is not confirmed whether they conduct human bio-surveillance or medical RF testing :contentReference[oaicite:2]{index=2}  
+- There are no publicly accessible records showing whether these entities are subject to Canadian law, Charter protections, or ICC treaty obligations.
+
+---
+
+## 🛰 Military Programs with Unclear Civilian Safeguards
+
+- **Light Electronic Warfare Teams (LEWTs)** and **Project 1041 (Cyber/Electromagnetic Activities)** are Canadian military programs for tactical EW—none grant avenues for citizen review or remedy :contentReference[oaicite:3]{index=3}  
+- **Defence Research and Development Canada (DRDC)** oversees technology R&D, often partnering with private firms, yet offers no transparency into the civilian oversight of human-impact innovations or surveillance tech :contentReference[oaicite:4]{index=4}
+
+---
+
+## ⛔ Treaty & Legal Immunity Risks
+
+- **Canada’s defence contractors may invoke NATO or foreign legal immunity**, allowing them to bypass domestic jurisdiction over spying, implants, or directed-energy programs :contentReference[oaicite:5]{index=5}  
+- As an ICC signatory, Canada is obliged to investigate when crimes fall under international law—but **NATO actors and private contractors are not automatically subject to this jurisdiction**.
+
+---
+
+## 📢 Charter Challenge Requests
+
+We demand:
+1. A **public registry of all foreign and private defense contractors allowed to operate in Canada.**
+2. Disclosure of all **Letters of Understanding or MOUs** outlining permitted technologies and jurisdiction.
+3. Enforcement of **civil remedies for any individual** harmed under these systems.
+4. Full compliance with Canada's ratified treaties (ICC, CAT) including jurisdiction over NATO-affiliated or private actors.
+
+---
+
+**Summary**: Canadians cannot rely on police or internal inspections when these entities operate outside Canadian legal safeguards. Without oversight, Charter violations and treaty breaches become normalized—and there is no path for civilian accountability.
+
