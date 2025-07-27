@@ -43,3 +43,7 @@ Bill C-2 is a legislative proposal in Canada that contains provisions affecting 
 - [8] Smart Dust Innovation Canada: https://www.tradecommissioner.gc.ca/en/about-us/success-stories/smart-dust-new-horizons-international-innovation.html
 - [9] MKULTRA & Canada’s Role: https://en.wikipedia.org/wiki/Project_MKUltra
 - [10] Bank of Canada on Smart Contract Risk: https://www.bankofcanada.ca/2023/10/staff-analytical-note-2023-15/
+
+The Financial Transactions and Reports Analysis Centre (FINTRAC) still does not monitor smart contract abuse, despite Bill C-2 giving sweeping new surveillance and penalty powers. [1]
+
+[1] Source: [The Strong Borders Act – Public Safety Canada](https://www.canada.ca/en/public-safety-canada/news/2025/06/the-strong-borders-act---government-of-canada-strengthens-border-security.html)
