@@ -61,6 +61,23 @@ This massive allocation shift confirms the government’s prioritization of mili
 
 The pledge was announced in parallel with expansions of **private military contractors (PMCs)** and **light electronic warfare teams** (LEWTs) operating inside Canada, often under opaque agreements that bypass public transparency.
 
+## ⚖️ NATO Immunity, Canadian Jurisdiction, and ICC Limitations
+
+Canada’s participation in the **NATO Status of Forces Agreement (SOFA)** and its application under domestic law (Visiting Forces Act, 1985) grants **legal immunity** to foreign military personnel operating on Canadian soil—even in cases of alleged human rights violations.
+
+- Under SOFA, criminal and disciplinary jurisdiction over visiting forces remains with the sending state, not Canada. :contentReference[oaicite:13]{index=13}
+- The Canadian Supreme Court in *R v McGregor* (2018) affirmed that **Canadian Charter rights do not apply** to acts committed under foreign military jurisdiction within Canada. :contentReference[oaicite:14]{index=14}
+- This legal immunization may also limit **ICC enforcement**, despite Canada being a founding signatory to the Rome Statute. Canada ratified ICC privileges and immunities in 2004, but operational intersection with SOFA allows foreign troops to escape both Canadian and international accountability. :contentReference[oaicite:15]{index=15}
+
+### 🚨 Charter Violation Dynamics:
+- **Section 7 (Life, Liberty, Security of the Person)**: Potential victims have no domestic legal access.
+- **Section 24 (Legal Remedies)**: Canadian courts cannot intervene in foreign-controlled incidents.
+- **International Vacuum**: Even ICC mechanisms may be restricted via treaty exceptions applied under SOFA.
+
+This reveals a disturbing gap: Canada’s legal and treaty framework allows **unaccountable foreign military and contractor activity**, with no remedy under national or international law.
+
+
+
 ### 📍 Charter Impact
 
 This demonstrates:
