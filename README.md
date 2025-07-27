@@ -97,4 +97,25 @@ You can fork, cite, or mirror this repository. You may also share this to journa
 
 📌 To mirror or cite this repo, use:  
 **https://github.com/Valcrywings/charter-challenge-bill-c2-**
+## 🔖 GitHub Repository Tags
+
+- `Bill C-2`
+- `Charter Challenge`
+- `Directed Energy Weapons`
+- `Smart Contracts`
+- `OFAC Watchlisting`
+- `Medical Neglect`
+- `International Law`
+- `Gene Sovereignty`
+- `White Rabbit Timing`
+- `Biomedical Surveillance`
+- `MKUltra Canada`
+- `PIPEDA Violations`
+- `Canadian Human Rights`
+- `Nano-Technology Abuse`
+- `DTCC Smart Contracts`
+- `GLEIF Oversight`
+- `Legal Entity Identifier`
+- `Secret Orders in Council`
+- `Crimes Against Humanity`
 
