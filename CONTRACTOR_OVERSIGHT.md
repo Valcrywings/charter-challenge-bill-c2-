@@ -49,6 +49,30 @@ Canada’s collaboration with **foreign military contractors** and **allied defe
 
   > 🔍 This creates a **legal vacuum** where crimes against humanity, bio-surveillance, or illegal experimentation may not be investigated by local police or RCMP.
 
+## NATO Investment Pledge and Canada's Militarization Shift
+
+On June 25, 2025, Canada announced it was joining NATO’s new Defence Investment Pledge, committing to increase national defense spending to at least 2% of GDP, with 20% allocated to new equipment and R&D [source](https://www.pm.gc.ca/en/news/news-releases/2025/06/25/canada-joins-new-nato-defence-investment-pledg).
+
+This massive allocation shift confirms the government’s prioritization of military infrastructure and defense collaboration over public oversight of civil rights, medical systems, or transparent research ethics. Of concern is that this pledge does not distinguish between traditional defense and the emerging use of **dual-use technologies**, such as:
+
+- **Neurotechnology and brain-computer interfaces**
+- **Genomic surveillance and biosensors**
+- **Directed energy systems and psychological warfare tools**
+
+The pledge was announced in parallel with expansions of **private military contractors (PMCs)** and **light electronic warfare teams** (LEWTs) operating inside Canada, often under opaque agreements that bypass public transparency.
+
+### 📍 Charter Impact
+
+This demonstrates:
+- An alignment with NATO standards and priorities over domestic Charter compliance.
+- Budget redirection that undermines medical care and civil liberties in favor of weaponized tech infrastructure.
+- A deepening of **bio-digital convergence strategies** with minimal civilian oversight, raising constitutional and human rights concerns.
+
+---
+
+For more, see the Government’s announcement:  
+🔗 [Canada joins new NATO Defence Investment Pledge – June 2025](https://www.pm.gc.ca/en/news/news-releases/2025/06/25/canada-joins-new-nato-defence-investment-pledg)
+
 ---
 
 ## 📉 Evidence of Oversight Gaps
