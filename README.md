@@ -160,3 +160,17 @@ We call upon:
 
 Together, we can reclaim autonomy, dignity, and justice.
 
+---
+
+## 🧾 Contacted Recipients Log
+
+| Date Sent | Name | Organization | Email | Response |
+|-----------|------|--------------|-------|----------|
+| [Date] | Tom Quiggin | The Quiggin Report | info@quigginreport.com | ❌ |
+| [Date] | Rebel News | Canada | tips@rebelnews.com | ❌ |
+| [Date] | [Add more] | [Org] | [Email] | ❌ |
+
+---
+
+> *All messages are being tracked for public transparency and as part of the legal record.*
+
