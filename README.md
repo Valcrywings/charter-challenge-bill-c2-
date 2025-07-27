@@ -1,4 +1,7 @@
-# 🇨🇦 Charter Challenge: Bill C-2 — Legal Submission & Evidence Repository
+# 🇨🇦 Charter Challenge: Bill C-2 — 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Valcrywings.charter-challenge-bill-c2-)
+
+Legal Submission & Evidence Repository
 ## 🧭 Summary Roadmap
 
 This GitHub repository presents a formal Charter Challenge to Canada's Bill C-2. It includes structured legal, scientific, and human rights evidence relating to:
