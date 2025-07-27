@@ -140,4 +140,20 @@ This GitHub repository presents a formal Charter Challenge to Canada's Bill C-2.
 - 📜 **Historical Continuity of Abuse**: Canada's unresolved role in MKUltra; whitewashed but foundational to biomedical exploitation today.
 - 📡 **CERN White Rabbit Timing + IOT + Smart Contracts**: Precision-timed biodata capture systems used in unauthorized medical experimentation.
 - 🔒 **Charter and ICC Treaty Violations**: Breakdown of privacy, bodily autonomy, access to legal remedy, and dignity—core rights under international and Canadian law.
+---
+
+## 🕊️ Call to Action
+
+This submission is made publicly accessible for legal review, international observation, and advocacy purposes. 
+
+We call upon:
+
+- **Canadian and international legal experts** to assess the Charter and ICC violations detailed herein.
+- **Human rights defenders and journalists** to help expose unregulated biomedical and financial systems harming civilians.
+- **Technologists and researchers** to examine the misuse of blockchain, nanotech, and surveillance tools embedded within state and private programs.
+- **The United Nations and relevant treaty bodies** to investigate Canada's failure to uphold international legal norms in the use of directed energy, data harvesting, and medical experimentation without consent.
+
+📨 To collaborate, inquire, or offer support, please reach out via [GitHub Discussions](https://github.com/Valcrywings/charter-challenge-bill-c2-/discussions) or fork and contribute directly to this repository.
+
+Together, we can reclaim autonomy, dignity, and justice.
 
