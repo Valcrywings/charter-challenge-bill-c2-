@@ -127,6 +127,11 @@ The user has directly traced:
 
 ### Recommended Next Steps
 
+These observations are consistent with known characteristics of IMSI catchers (also known as Stingrays), which simulate cell towers to intercept mobile communications. According to Privacy International and U.S. Federal reports, such devices are often used in domestic intelligence operations.  
+- [Privacy International on IMSI Catchers](https://privacyinternational.org/learn/stingrays-imsi-catchers)
+- [U.S. DHS Report on IMSI Use](https://www.dhs.gov/sites/default/files/publications/17_1230_s1_-_mobile_device_security_-_public_version.pdf)
+
+
 1. Integrate `EMBEDDED_SUBCONTRACTORS.md` into main repository index.
 2. Update `README.md` and EXHIBIT_K with mention of this new section.
 3. Expand citations as more blockchain paths and procurement documents are traced.
