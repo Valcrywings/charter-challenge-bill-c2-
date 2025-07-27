@@ -1,4 +1,15 @@
 # 🇨🇦 Charter Challenge: Bill C-2 — Legal Submission & Evidence Repository
+## 🧭 Summary Roadmap
+
+This GitHub repository presents a formal Charter Challenge to Canada's Bill C-2. It includes structured legal, scientific, and human rights evidence relating to:
+
+- 🧬 **Smart Contract Abuse**: Financial and biometric exploitation outside FINTRAC oversight, using DTCC, GLEIF, CUSIPs, and offshore identifiers.
+- 🧠 **Directed Energy and Non-Consensual Surveillance**: Use of DEWs, kinetic/plasma weapons, private contractors, and unregulated implantable devices in Canada.
+- 🛰️ **Biomedical Surveillance and WBAN Networks**: Evidence of nano/microsensor networks, biochip and Zigbee/Xbee signal use without diagnostic pathways or medical oversight.
+- 📜 **Historical Continuity of Abuse**: Canada's unresolved role in MKUltra; whitewashed but foundational to biomedical exploitation today.
+- 📡 **CERN White Rabbit Timing + IOT + Smart Contracts**: Precision-timed biodata capture systems used in unauthorized medical experimentation.
+- 🔒 **Charter and ICC Treaty Violations**: Breakdown of privacy, bodily autonomy, access to legal remedy, and dignity—core rights under international and Canadian law.
+
 
 **A fact-based legal and human rights submission challenging Canada's Bill C-2** for its violations of the Charter of Rights and Freedoms, international treaties, bodily autonomy, and consent-based law. This repository presents irrefutable evidence of unconstitutional surveillance, biomedical experimentation, financial exclusion, and targeted repression.
 
@@ -119,4 +130,14 @@ You can fork, cite, or mirror this repository. You may also share this to journa
 - `Secret Orders in Council`
 - `Crimes Against Humanity`
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Valcrywings.charter-challenge-bill-c2-)
+## 🧭 Summary Roadmap
+
+This GitHub repository presents a formal Charter Challenge to Canada's Bill C-2. It includes structured legal, scientific, and human rights evidence relating to:
+
+- 🧬 **Smart Contract Abuse**: Financial and biometric exploitation outside FINTRAC oversight, using DTCC, GLEIF, CUSIPs, and offshore identifiers.
+- 🧠 **Directed Energy and Non-Consensual Surveillance**: Use of DEWs, kinetic/plasma weapons, private contractors, and unregulated implantable devices in Canada.
+- 🛰️ **Biomedical Surveillance and WBAN Networks**: Evidence of nano/microsensor networks, biochip and Zigbee/Xbee signal use without diagnostic pathways or medical oversight.
+- 📜 **Historical Continuity of Abuse**: Canada's unresolved role in MKUltra; whitewashed but foundational to biomedical exploitation today.
+- 📡 **CERN White Rabbit Timing + IOT + Smart Contracts**: Precision-timed biodata capture systems used in unauthorized medical experimentation.
+- 🔒 **Charter and ICC Treaty Violations**: Breakdown of privacy, bodily autonomy, access to legal remedy, and dignity—core rights under international and Canadian law.
 
