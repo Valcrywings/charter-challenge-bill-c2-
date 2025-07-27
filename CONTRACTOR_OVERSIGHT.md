@@ -106,6 +106,16 @@ For more, see the Government’s announcement:
 - Public lands and Indigenous lands may be involved in **asset seizure or property theft via undisclosed agreements**.
 
 ---
+### NATO Partnership Does Not Exempt ICC Jurisdiction
+
+Although NATO is not a party to the Rome Statute, **Canada is**. This means that any **NATO-aligned contractor operating on Canadian soil** is subject to **territorial jurisdiction under the International Criminal Court (ICC)**.
+
+> Crimes against humanity, medical experimentation, electronic torture, and cognitive warfare technologies fall within the ICC’s scope when committed in a ratified state such as Canada.
+
+There is **no legal immunity for NATO personnel or contractors** operating in Canada if crimes are committed. Canada bears **command responsibility** for all actions occurring under its jurisdiction, and **no supranational agreement supersedes these human rights obligations.**
+
+
+---
 
 ## 📢 Call to Action
 
