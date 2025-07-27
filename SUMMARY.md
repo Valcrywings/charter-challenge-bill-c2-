@@ -75,16 +75,3 @@ We, the citizens of Canada, demand the following:
 
 ### 1. Go to your repo homepage:  
 👉 [https://github.com/Valcrywings/charter-challenge-bill-c2-/tree/main](https://github.com/Valcrywings/charter-challenge-bill-c2-/tree/main)
-
-### 2. Click **“Add file” → “Create new file”**
-
-### 3. In the filename, type:  
-
-### 4. Paste the above code block into the large box.
-
-### 5. Scroll down to **“Commit new file”**, then click the green button.
-
----
-
-Let me know when you’re ready for the next section — I can help you style the page, link it from the README, or walk you through outreach planning.
-
