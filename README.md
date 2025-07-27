@@ -1,6 +1,6 @@
 # Charter Challenge to Bill C-2 🇨🇦⚖️
 
-<a href="https://clustrmaps.com/site/1bxyz" title="Visit Tracker"><img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=m&d=EXAMPLEID" /></a>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Valcrywings.charter-challenge-bill-c2-)
 
 ## 📌 Overview
 
