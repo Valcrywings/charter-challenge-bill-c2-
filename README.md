@@ -118,4 +118,5 @@ You can fork, cite, or mirror this repository. You may also share this to journa
 - `Legal Entity Identifier`
 - `Secret Orders in Council`
 - `Crimes Against Humanity`
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Valcrywings.charter-challenge-bill-c2-)
 
