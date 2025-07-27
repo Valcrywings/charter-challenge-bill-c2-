@@ -174,3 +174,7 @@ Together, we can reclaim autonomy, dignity, and justice.
 
 > *All messages are being tracked for public transparency and as part of the legal record.*
 
+### 🔗 New Sections
+- [CERN & White Rabbit + Biodata Systems](cern_white_rabbit_smartcontracts.md)
+- [Implantable Semiconductor Oversight in Canada](implantable_semiconductor_laws_canada.md)
+- [WBAN Legal Loopholes in Workplace Surveillance](wban_surveillance_loopholes.md)
