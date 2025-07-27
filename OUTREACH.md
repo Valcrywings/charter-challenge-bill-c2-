@@ -3,7 +3,7 @@
 
 Dear [Name / Organization / Editor / Investigator],
 
-My name is [Your Name / "Valcrywings"]. I am a medically abandoned Canadian citizen surviving with **bilateral brain tumors**. I have been denied surgery, mobility, privacy, and access to justice in a nation that claims to uphold human rights.
+My name is Ms. Bobbi / "Valcrywings". I am a medically abandoned Canadian citizen surviving with **bilateral brain tumors**. I have been denied surgery, mobility, privacy, and access to justice in a nation that claims to uphold human rights.
 
 Despite illness and systemic targeting, I have assembled and released the **Charter Challenge to Bill C-2**—a legally structured, evidence-rich submission outlining the collapse of bodily autonomy, financial justice, and medical sovereignty in Canada.
 
