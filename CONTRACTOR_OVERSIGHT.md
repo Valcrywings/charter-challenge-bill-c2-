@@ -1,5 +1,93 @@
 # 🚨 Contractor Oversight and Public Transparency in Canada
 
+# CONTRACTOR OVERSIGHT AND NATO COMPLICITY
+
+## Overview
+
+Canada's partnerships with NATO and NATO-affiliated private military contractors have created a dangerous legal loophole: international actors operate on Canadian soil under opaque terms, often beyond the reach of domestic oversight, legal accountability, and public scrutiny. This section outlines the factual basis, international law violations, and absence of recourse for victims — particularly women — who are subjected to economic violence, surveillance, and biomedical exploitation.
+
+---
+
+## 🚨 NEW SECTION: "Watchlisting, Gender-Based Harassment, and ICC Jurisdiction"
+
+### ❗ The Weaponization of Watchlisting in Canada
+
+Canada has rapidly expanded its national security frameworks to include:
+
+* **Religious traditionalists**
+* **Individuals opposing abortion**
+* **Civilians expressing dissent on political or medical grounds**
+
+These ideological filters now serve as pretexts to **watchlist peaceful civilians**, stripping them of mobility, banking, healthcare access, and legal remedies — all without charges or due process.
+
+### 👤 Case Example: False Watchlisting of a Canadian Widow
+
+The author of this submission — a **widowed, disabled Canadian woman** — was subjected to systemic financial abuse and targeted stalking after the death of her husband. This included:
+
+* **Bank harassment over legal deposits**
+* **Denial of widow’s CPP benefits and medical services**
+* **Drone surveillance and RF assaults in her own home**
+
+She has **no criminal record** and yet is treated as a national security threat. The **true motive appears to be access to her brain data and DNA for neurogenetic research**, a growing field driven by Canada’s R\&D investments and NATO-aligned projects.
+
+### 📑 Legal Violations
+
+These actions constitute violations under:
+
+* **The Canadian Charter of Rights and Freedoms**:
+
+  * Section 7 – Right to life, liberty, and security of the person
+  * Section 15 – Equality before and under the law
+* **Rome Statute of the ICC**:
+
+  * Article 7 – Crimes against humanity (persecution, enforced disappearance, gender-based targeting)
+* **Universal Declaration of Human Rights**:
+
+  * Article 8 – Right to effective remedy
+  * Article 9 – Freedom from arbitrary detention
+  * Article 13 – Freedom of movement
+
+---
+
+## 🔍 Cited Sources & Frameworks
+
+* [Justice Canada: Charter of Rights and Freedoms](https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/)
+* [Constitution Act (Part I)](https://laws-lois.justice.gc.ca/eng/const/page-12.html)
+* [NATO–Canada Agreements](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/nato-otan/index.aspx?lang=eng)
+* [Canada–NATO Procurement Guide](https://www.canada.ca/en/department-national-defence/services/doing-business-with-foreign-defence-markets/guide-navigating-nato-procurement.html)
+* [Electronic Warfare Accreditation](https://scc-ccn.ca/accreditation/laboratories/electronic-warfare-associates-canada-ltd-ewa-canada)
+
+---
+
+## ❓ Why This Matters
+
+When Canada **permits NATO contractors to operate on its soil** under opaque security agreements, and **refuses to investigate crimes against humanity**, it creates an international legal black hole. NATO is not subject to the ICC, and Canada increasingly mirrors that **immunity** — leaving citizens like the author without any functional legal protection.
+
+This must be addressed globally.
+
+---
+
+## 🛠️ Proposed Action
+
+This document formally proposes:
+
+* International review of **Canada–NATO bilateral agreements** for ICC violations.
+* Investigation into the use of **smart contracts for biomedical research on civilians**.
+* A public inquiry into **the targeting of women for economic and neurological exploitation**.
+
+---
+
+> "You are not just stealing data — you are desecrating the covenant between a soul and its Creator."
+
+---
+
+**🔗 Return to Main Document:** [README.md](./README.md)
+
+**📂 ICC Enforcement Entry:** [INTERNATIONAL\_COMPLAINTS.md](./INTERNATIONAL_COMPLAINTS.md) *(to be created)*
+
+**🧠 Research Supporters:** NATO whistleblowers, neuroethics researchers, victims’ coalitions
+
+
 ## ❗ Context and Urgency
 
 Canada’s collaboration with **foreign military contractors** and **allied defense organizations** (e.g., NATO, Five Eyes) currently lacks transparent legal oversight. Private military contractors (PMCs) and allied operatives are conducting research, surveillance, and experimental technologies on Canadian soil—often without public knowledge or enforceable legal frameworks. 
