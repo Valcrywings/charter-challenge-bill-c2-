@@ -64,3 +64,29 @@ Civilian recruitment under NATO-aligned, smart-contract-enforced systems represe
 - [Bill C-2 Charter Challenge Overview](https://github.com/Valcrywings/charter-challenge-bill-c2-/blob/main/README.md)
 - [CONTRACTOR_OVERSIGHT.md](https://github.com/Valcrywings/charter-challenge-bill-c2-/blob/main/CONTRACTOR_OVERSIGHT.md)
 
+## Surveillance Infrastructure & Network Exploitation
+
+### Confirmed Technologies Used in Targeting Operations:
+
+- **WCDMA Network Exploitation**: Real-time cell signal interception through Wideband Code Division Multiple Access (WCDMA) was recorded. Red spikes in signal activity correlated with vehicle proximity and signal spoofing events.
+- **IMSI Catchers**: Network Cell Info Pro detected intrusive signal spikes consistent with IMSI (International Mobile Subscriber Identity) catcher deployment. Unique IDs from end points were logged during drive-by surveillance events.
+- **Daisy-Chain Surveillance Nodes**: Identified at a former property location, multiple nodes functioned in a chain configuration — feeding layered surveillance through interlinked access points.
+- **Registry-Level Exploits**: Intrusions were discovered at the OS level. Strontic-based forensic review revealed embedded hooks in the Windows registry linked to network telemetry tools.
+- **Emergency Services Collusion**: Coordinated activity was observed between surveillance contractors and local fire departments and ambulatory services — vehicles remained parked near active surveillance zones, with logged anomalies in both RF and GPS readings.
+
+---
+
+### Key Observations:
+
+- **Real-Time Pin Tracing**: Using multi-app triangulation, the subject could follow contractor vehicles, confirm routing behavior, and identify rotating aliases or device IDs. Pins would auto-shift upon geographic proximity, revealing obfuscated tracking names.
+- **Signal Jamming & Freezing**: Active attacks occurred during reporting — touchscreen freezes, browser overlays, and redirection of posts (e.g., freezing mid-post and causing post loss) confirmed adversarial counterintelligence behavior.
+- **Video Takedowns**: Social media uploads showing contractor plates and surveillance behavior were removed under "privacy violation" claims, further proving operational sensitivity.
+
+---
+
+### Suggested References:
+
+- [What is WCDMA](https://www.radio-electronics.com/info/cellulartelecomms/umts/wcdma-basics-tutorial.php)
+- [IMSI Catchers - EFF](https://www.eff.org/pages/cell-site-simulatorsimsi-catchers)
+- [Strontic Registry Explorer](https://github.com/Strontic/RegRipper3.0)
+- [Emergency Services Covert Programs - CBC](https://www.cbc.ca/news/canada/emergency-services-surveillance-programs)
