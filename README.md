@@ -1,10 +1,6 @@
-from datetime import datetime
-
-# Generate a new structured README.md content with updated structure
-readme_content = """\
 # Charter Challenge to Bill C-2 🇨🇦⚖️
 
-![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=Valcrywings.charter-challenge-bill-c2-)
+<a href="https://clustrmaps.com/site/1bxyz" title="Visit Tracker"><img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=m&d=EXAMPLEID" /></a>
 
 ## 📌 Overview
 
