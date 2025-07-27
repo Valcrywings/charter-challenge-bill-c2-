@@ -13,6 +13,8 @@ Bill C-2 (2025) is Canada's so-called **"Strong Borders Act"**. It claims to enh
 🔗 [Justice Canada Review](https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c2_2.html)
 
 ---
+- [ICC Treaty Access and Enforcement Barriers](./ICC_ACCESS_AND_BLOCKS.md)
+---
 
 ## ❌ Violations and Evidence  
 
