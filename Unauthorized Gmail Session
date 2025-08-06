@@ -58,3 +58,26 @@ Multiple Gmail access types occurred simultaneously from IP `209.29.168.92` (TEL
 **Category:** Identity Cloning / Session Abuse / Telco-based Surveillance  
 **Tags:** `#OAuthHijack` `#GmailForensics` `#TelusSessionInjection` `#CharterChallenge`
 
+---
+
+## 📍 IP Range Attribution Summary
+
+**IP Address in use:** `209.29.168.92`  
+**IP Range:** `209.29.168.0/24`  
+**ISP:** TELUS Communications  
+**Organization:** TELUS Communications  
+**Hostname (likely):** ip5-29.eyrkonaeac04.dialup.ca.telus.com  
+**Time Zone Associated:** America/Rainy_River  
+**Routing Notes:**
+- Use of "dialup" in hostname may indicate legacy routing or dynamic user pools
+- "Rainy River" zone is geographically distant from user’s known location, suggesting route aliasing, relay, or masking
+- Still unclear whether this is a clean Telus route or a **proxy/mirroring point** internal to Telus or leased by a third party
+
+---
+
+## 🔎 Recommendation
+
+- Begin cross-referencing this IP and hostname string (`eyrkonaeac04`) in **browser sync internals, Chrome metadata, or Android logs**
+- Watch for possible **duplication of tokens or sync sessions across devices using this block**
+- Include this forensic entry in all privacy complaints or international reports
+
