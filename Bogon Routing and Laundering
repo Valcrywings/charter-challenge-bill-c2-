@@ -1,0 +1,81 @@
+# 🕳️ Bogon Routing and Laundering: Tracking Hidden ASN Traffic and Offshore Smart Contracts
+
+## 🔎 Authored by Bobbi Peitsch (ValcryWings)
+
+**Forensic Analyst, Human Rights Investigator**
+
+---
+
+## 🌎 Overview: What Are Bogon IPs?
+
+**Bogon IPs** refer to IP address ranges that are **unassigned or reserved** by IANA (Internet Assigned Numbers Authority). They should never be visible on the public internet.
+
+However, these IPs are often **misused for covert operations**, including:
+
+* Money laundering via smart contracts
+* Offshoring of assets
+* Signal routing for surveillance or biometric harvesting
+* Experimental medical or military web infrastructure
+
+---
+
+## 🔒 Core Discovery: 0.0.0.2 — Dog Breeding Cover Site
+
+One of the earliest known incidents discovered by the author was a dog breeding website hosted on `0.0.0.2`.
+
+> “This was tracked years ago. It looked benign. But something felt off. When I traced it, the routing path tied into military domains. It was likely a behavioral front.” — *Bobbi Peitsch*
+
+* **Domain:** Dog breeding service (now offline)
+* **IP:** 0.0.0.2 (should not be routable)
+* **Routing Behavior:** ASN masking, military connection, anomalous DNS responses
+* **Cover Purpose:** Behavioral data collection / laundering shell
+
+---
+
+## 🚀 Mechanism of Abuse
+
+| Stage | Activity       | Description                                     |
+| ----- | -------------- | ----------------------------------------------- |
+| 1     | IP Hijack      | Bogon IPs are routed using BGP manipulation     |
+| 2     | Fast-Flux DNS  | Domains point to rotating IPs to evade tracking |
+| 3     | Hosting Shell  | Websites or smart contract nodes deployed       |
+| 4     | Asset Flow     | Crypto or fiat routes through ASN tunnels       |
+| 5     | Dump and Shift | IP reassignment occurs; logs vanish             |
+
+---
+
+## 🌐 Tools to Trace
+
+* [HE.net BGP Tool](https://bgp.he.net/)
+* [Scamalytics](https://scamalytics.com/)
+* [Gleif.org LEI Directory](https://search.gleif.org)
+* [OpenCorporates](https://opencorporates.com/)
+* [IANA Bogon List](https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml)
+
+---
+
+## 🚨 Why It Matters
+
+* **Smart Contract Laundering:** Transactions tied to biometric or genetic exploitation are routed via these channels.
+* **Unregulated Surveillance:** These IPs host tracking layers, data collection, and even spoofed medical systems.
+* **Military-Private Crossflow:** Tied to contractors, AI networks, and R\&D programs outside civilian jurisdiction.
+
+---
+
+## 📊 Legal and Ethical Implications
+
+* **FINTRAC Oversight Failure**: These IPs are accessible to the public yet are "ignored" in enforcement audits.
+* **Violation of IANA Policy**: Use of bogons for laundering breaches global internet governance.
+* **Human Rights Threat**: Weaponized data trails routed through hidden tunnels impact civilians worldwide.
+
+---
+
+## 📒 License and Publication
+
+**Public Domain. For use in global investigations, media, Charter Challenges, or UN filings.**
+
+**Author:** Bobbi Peitsch (ValcryWings)
+**Document Type:** Digital Forensic Intelligence
+**Contact GitHub:** [https://github.com/Valcrywings/charter-challenge-bill-c2-](https://github.com/Valcrywings/charter-challenge-bill-c2-)
+
+> “Even ghosts leave footprints if you know where to look.”
