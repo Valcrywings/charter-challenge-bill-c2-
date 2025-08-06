@@ -1,51 +1,60 @@
-# 🚨 Unauthorized Gmail Session Detected from Shaw IP Address (While Using Telus ISP)
+# 🧠 Suspicious Session Mirroring on TELUS IP Network (Gmail Account Forensics)
 
 **Date Logged:** 2025-08-06  
-**User ISP:** Telus (Canada)  
-**Unauthorized Access IP:** `209.29.168.92`  
-**IP Ownership:** Shaw Communications Inc.  
-**Abuse Contact:** abuse@shaw.ca  
-**Device in Use:** Android (local time 1:18am)  
-**Access Type:** Browser, Mobile, and OAuth (Authorized App)
+**User ISP:** TELUS Communications  
+**Observed IP:** 209.29.168.92  
+**Block Range:** 209.29.168.0/24  
+**Hostname:** ip5-29.eyrkonaeac04.dialup.ca.telus.com  
+**Access Types:** Browser, Mobile, OAuth Token  
+**Device:** Android + Chrome  
+**Suspicious Token:** `946277197574-f7mp4v1faacb1ndtpsliojjgcjbv16it.apps.googleusercontent.com` (OAuth App)
 
 ---
 
-## 🧠 Summary
+## 🔍 Incident Overview
 
-This entry documents repeated, unauthorized Gmail access events traced to IP `209.29.168.92` belonging to **Shaw Communications**, even though the user is not a Shaw customer and is actively using **Telus** as their internet service provider. This suggests a **network-level session hijack**, **device cloning**, or **unauthorized third-party token usage**.
+Multiple Gmail access types occurred simultaneously from IP `209.29.168.92` (TELUS Communications), despite only a single device being in active use.
 
----
+| Access Type        | Time      | IP Address     | Notes                                    |
+|--------------------|-----------|----------------|------------------------------------------|
+| Browser (Chrome)   | 1:18 AM   | 209.29.168.92  | *Current session                         |
+| Mobile             | 1:18 AM   | 209.29.168.92  | Background process or cloned session     |
+| OAuth Application  | 1:18 AM   | 209.29.168.92  | Tokened app access – **unnamed client**  |
+| Additional Mobile  | 9:41–11:31 PM | 209.29.168.92 | Repeated background mobile hits         |
 
-## 📌 Key Access Log
-
-| Access Type              | IP Address       | Location | Timestamp (Local) | Notes                              |
-|--------------------------|------------------|----------|-------------------|-------------------------------------|
-| Browser (Chrome)         | 209.29.168.92    | Canada   | 1:18am            | *Current session                   |
-| Authorized App (Unknown) | 209.29.168.92    | Canada   | 1:18am            | Suspicious OAuth activity          |
-| Mobile (x5 entries)      | 209.29.168.92    | Canada   | 9:41pm – 1:18am   | Repetitive mobile session pings    |
-| Browser (Earlier)        | 209.29.168.92    | Canada   | 1:59pm            | Possible injection or mirroring    |
-| Authorized App ID        | 946277197574-f7mp4v1faacb1ndtpsliojjgcjbv16it.apps.googleusercontent.com | Canada | 1:45pm | Unknown application scope granted |
-
-> 🔹 `*` denotes current session  
-> 🔹 Multiple access types (mobile + browser + OAuth) suggest full session mirroring or device replication
+> The repeated session entries within seconds of each other are indicative of **session replay**, **token sync**, or **device cloning** through network-layer access.
 
 ---
 
-## 🔍 Technical Notes
+## 🧠 Security Concerns
 
-- The IP `209.29.168.92` belongs to Shaw Communications, **not Telus**.
-- The user has never used Shaw as a provider.
-- OAuth App ID is not a known Google product — could be a cloned session or injected access via MITM.
-- The same IP triggered multiple types of access within minutes (mobile + browser + app), indicating **token replay or device clone**.
+- User uses TELUS only — **not multiple ISPs**
+- All access was **from one Telus IP**, yet **multiple simultaneous access types** occurred
+- OAuth token in use is **not named or trusted** — could be injected or abused
+- Hostname pattern (`eyrkonaeac04`) suggests internal node/session mapping — further analysis needed
+
+---
+
+## 🔐 Actions Taken
+
+- Password changed and sessions forcibly revoked
+- OAuth token revoked
+- Forensic logging activated
+- NetGuard + DNS leak tests scheduled
+- Entry added to GitHub under Charter Challenge & forensic branches
 
 ---
 
-## 🔐 User Security Status
+## 🔧 Next Steps
 
-- **Google Password:** Changed after discovery ✅  
-- **2FA:** In progress or enabled  
-- **OAuth Tokens:** Under audit  
-- **DNS Leak Test:** Pending  
-- **Chrome Sync:** Being reviewed
+- Audit token scope and behavior of OAuth client
+- Trace hostname subdomain patterns across other logs
+- Check for same IP subnet reuse by unknown devices
+- Include this report in Charter Challenge and surveillance abuse dossier
 
 ---
+
+**Filed by:** `Valcrywings`  
+**Category:** Identity Cloning / Session Abuse / Telco-based Surveillance  
+**Tags:** `#OAuthHijack` `#GmailForensics` `#TelusSessionInjection` `#CharterChallenge`
+
