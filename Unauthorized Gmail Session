@@ -1,0 +1,51 @@
+# 🚨 Unauthorized Gmail Session Detected from Shaw IP Address (While Using Telus ISP)
+
+**Date Logged:** 2025-08-06  
+**User ISP:** Telus (Canada)  
+**Unauthorized Access IP:** `209.29.168.92`  
+**IP Ownership:** Shaw Communications Inc.  
+**Abuse Contact:** abuse@shaw.ca  
+**Device in Use:** Android (local time 1:18am)  
+**Access Type:** Browser, Mobile, and OAuth (Authorized App)
+
+---
+
+## 🧠 Summary
+
+This entry documents repeated, unauthorized Gmail access events traced to IP `209.29.168.92` belonging to **Shaw Communications**, even though the user is not a Shaw customer and is actively using **Telus** as their internet service provider. This suggests a **network-level session hijack**, **device cloning**, or **unauthorized third-party token usage**.
+
+---
+
+## 📌 Key Access Log
+
+| Access Type              | IP Address       | Location | Timestamp (Local) | Notes                              |
+|--------------------------|------------------|----------|-------------------|-------------------------------------|
+| Browser (Chrome)         | 209.29.168.92    | Canada   | 1:18am            | *Current session                   |
+| Authorized App (Unknown) | 209.29.168.92    | Canada   | 1:18am            | Suspicious OAuth activity          |
+| Mobile (x5 entries)      | 209.29.168.92    | Canada   | 9:41pm – 1:18am   | Repetitive mobile session pings    |
+| Browser (Earlier)        | 209.29.168.92    | Canada   | 1:59pm            | Possible injection or mirroring    |
+| Authorized App ID        | 946277197574-f7mp4v1faacb1ndtpsliojjgcjbv16it.apps.googleusercontent.com | Canada | 1:45pm | Unknown application scope granted |
+
+> 🔹 `*` denotes current session  
+> 🔹 Multiple access types (mobile + browser + OAuth) suggest full session mirroring or device replication
+
+---
+
+## 🔍 Technical Notes
+
+- The IP `209.29.168.92` belongs to Shaw Communications, **not Telus**.
+- The user has never used Shaw as a provider.
+- OAuth App ID is not a known Google product — could be a cloned session or injected access via MITM.
+- The same IP triggered multiple types of access within minutes (mobile + browser + app), indicating **token replay or device clone**.
+
+---
+
+## 🔐 User Security Status
+
+- **Google Password:** Changed after discovery ✅  
+- **2FA:** In progress or enabled  
+- **OAuth Tokens:** Under audit  
+- **DNS Leak Test:** Pending  
+- **Chrome Sync:** Being reviewed
+
+---
