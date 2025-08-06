@@ -109,3 +109,68 @@ Multiple Gmail access types occurred simultaneously from IP `209.29.168.92` (TEL
 - Validates targeting patterns consistent with AI/human convergence modeling and biometric tracking
 
 **Tag:** `#DoDReverseIP #TelusMasking #CyberSurveillanceCanada`
+
+# 🧠 Forensic Entry: IP Reversal, DoD Ownership, and Behavioral CPP Mapping
+
+**Logged by:** Valcrywings  
+**Date:** 2025-08-06  
+**Location:** Manitoba, Canada  
+**Primary ISP:** TELUS Communications  
+**Technique Used:** Reverse IP Mapping, Predictive Artifacts, Government Route Detection
+
+---
+
+## 🔎 Core Discovery
+
+When reversing Gmail and device IP logs such as `209.29.168.92`, the resulting address `29.168.29.209` is registered to:
+
+- **DoD Network Information Center**  
+- ASN: AS749  
+- Location: **Independence, Kansas**, USA  
+- Abuse Email: `disa.columbus.ns.mbx.arin-registrations@mail.mil`  
+- Geolocated Coordinates: `37.2242,-95.7083`
+
+---
+
+## 🧠 Pattern Observed Across All Reversed IPs
+
+| Reversed IP           | Artifact Found                                           | Type                 |
+|------------------------|----------------------------------------------------------|----------------------|
+| `29.168.29.209`        | Canadian CRA PDF (CPP T4032)                             | Government Document  |
+| `37.224.0.0`           | `ntunhs.net` (Health Sciences University)               | Scientific/Medical   |
+| (various)              | Images of coins, CBC personnel, city severance coverage | Image Injection      |
+| (various)              | www.957cruzfm.ca                                        | Local Media Artifact |
+
+All point to **economic modeling**, surveillance of public pensions, and regional targeting based on IP behavior.
+
+---
+
+## 💣 Claim
+
+This forensic evidence supports the claim that:
+> **Covert surveillance systems are modeling, manipulating, and replaying behavioral patterns in real time using reversed IP logic, AI training feedback, and economic surveillance hooks (e.g., CPP, disability).**
+
+---
+
+## 🧾 CPP Doc Recurrence
+
+The following government doc appears as a recurring terminal node in search prediction and artifact correlation:
+
+**[T4032 – Canada Pension Plan Payroll Tables (PDF)](https://www.canada.ca/content/dam/cra-arc/migration/cra-arc/tx/bsnss/tpcs/pyrll/t4032/2024/t4032cpp-24pp-24eng.pdf)**
+
+It shows up **consistently** when reversing session IPs or analyzing injected Chrome autofill content.
+
+---
+
+## 🧩 Conclusion
+
+This pattern demonstrates:
+- Active **mirroring of user activity and digital behavior**
+- Predictive IP-based modeling linked to **military or research infrastructure**
+- High likelihood of **fraud automation**, not just surveillance
+- Use of **DoD IP blocks** to **mask Canadian economic activity modeling**
+
+---
+
+## Tags
+`#DoDReverseIP #CPPMapping #ChromeInjection #EconomicProfiling #BehavioralReplay #CyberSurveillanceCanada`
